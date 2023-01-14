@@ -19,14 +19,15 @@
 
 Java --interpreted--> Source Code --> Java Compiler--> Byte-Code --> JVM --> OS
 
-![img.png](img.png)
+![img](https://user-images.githubusercontent.com/87247136/212488875-0e025338-e21d-4c43-96d1-dd11f0b81936.png)
+
 
 <h3> Java Virtual Machine (JVM)</h3>
 
 - It is a component which provides an environment for running java programs.
 - It reads bytecode and convert to machine code
 
-![img_1.png](img_1.png)
+![img_1](https://user-images.githubusercontent.com/87247136/212488894-cc891898-820c-4ece-9057-4e0dc1a53693.png)
 
 <h3> How is Java is Platform Independent? </h3>
 
@@ -72,10 +73,10 @@ It does through garbage collection.
 Every object created has some memory allocated for this obj. When not used java assumes it has no need and destroys it.
 Hence, memory is reclaimed.
 
-![img 3](img_3.png)
+![img_3](https://user-images.githubusercontent.com/87247136/212488903-8ba00b81-16ea-442e-87e0-d7af77c8ca1a.png)
 
 - Java follows unicode that is why it has 2 byte space.
 
 # Data types
 
-![img_2.png](img_2.png)
+![img_2](https://user-images.githubusercontent.com/87247136/212488902-850124c0-9859-4ee9-8b19-3f0f556b5781.png)
